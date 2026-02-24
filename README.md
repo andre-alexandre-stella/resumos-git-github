@@ -15,7 +15,7 @@ Repositório para armazenar resumos sobre Git e GitHub.
 
 ## 💻 Códigos
 ```
-git init
+$ git init
 ```
 ## 🔍 Referências
 - [Referência 1]()
