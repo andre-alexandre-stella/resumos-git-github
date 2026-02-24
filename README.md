@@ -12,6 +12,7 @@ Repositório para armazenar resumos sobre Git e GitHub.
 | Aulas | Resumos |
 |-------|------------|
 | Gravando alterações no repositório local | [Resumo]()|
+| Enviando alterações para o repositório remoto | [Resumo 2]()|
 
 ## 💻 Códigos
 ```
