@@ -4,7 +4,7 @@ Repositório para armazenar resumos sobre Git e GitHub.
 
 ## 📚 Documentação
 
-- [Git](https://git-scm.com/()
+- [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 
 ## 🧾 Resumos das aulas
@@ -17,6 +17,6 @@ Repositório para armazenar resumos sobre Git e GitHub.
 ```
 git init
 ```
-##🔍 Referências
+## 🔍 Referências
 - [Referência 1]()
 - [Referência 2]()
